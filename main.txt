@@ -1,4 +1,4 @@
-//this is smart automation code
+//smart home automation
 
 #include "DHT.h"
 #include <ESP32Servo.h>
