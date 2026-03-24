@@ -1,3 +1,5 @@
+//this is smart automation code
+
 #include "DHT.h"
 #include <ESP32Servo.h>
 #include <Wire.h>
